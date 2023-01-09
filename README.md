@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackh4ckr
-- 👀 I’m interested in Python, C and back-end development
+- 👀 I’m interested in Python, C, back-end development, and front end development.
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
